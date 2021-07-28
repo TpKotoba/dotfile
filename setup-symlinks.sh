@@ -1,3 +1,3 @@
 # Dotfiles
-ln -sf ~/dotfile/tpkotoba.vimrc ~/.vimrc
-ln -sf ~/dotfile/tpkotoba.gitconfig ~/.gitconfig
+ln -sf ~/dotfile/vim/tpkotoba.vimrc ~/.vimrc
+ln -sf ~/dotfile/git/tpkotoba.gitconfig ~/.gitconfig
