@@ -37,11 +37,6 @@ set shiftwidth=4
 set expandtab
 
 set autoindent
-inoremap ( ()<Esc>i
-inoremap [ []<Esc>i
-inoremap " ""<Esc>i
-inoremap ' ''<Esc>i
-
 set backspace=indent,eol,start
 
 
