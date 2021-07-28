@@ -1,6 +1,7 @@
+#!/bin/sh
 # ==== TYPORA ====
 TyporaVersion=`snap list | grep typora | awk '{print $3}'`
-TyporaPath=~/snap/typora/${TyporaVersion}/.config/Typora
+TyporaPath=~/snap/typora/current/.config/Typora
 TyporaTheme=typora-theme-typorex
 
 if [ -e ${TyporaPath} ]; then
