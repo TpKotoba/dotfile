@@ -1,0 +1,3 @@
+[submodule "typora/typora-theme-typorex"]
+	path = typora/typora-theme-typorex
+	url = https://github.com/TpKotoba/typora-theme-typorex
